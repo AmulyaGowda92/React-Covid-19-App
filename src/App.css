@@ -1,0 +1,28 @@
+.app {
+  width: 100%;
+}
+
+.app .container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.app h3 {
+  width: 60%;
+  height: 3rem;
+  text-align: center;
+  line-height: 3rem;
+  background: lightgrey;
+  font-size: 1.6rem;
+  text-transform: uppercase;
+  color: green;
+}
+
+.app img {
+  width: 25rem;
+  height: 10rem;
+  display: block;
+}
